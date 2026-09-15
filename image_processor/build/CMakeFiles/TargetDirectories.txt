@@ -1,0 +1,3 @@
+/home/denis/image_processor/build/CMakeFiles/image_processor.dir
+/home/denis/image_processor/build/CMakeFiles/edit_cache.dir
+/home/denis/image_processor/build/CMakeFiles/rebuild_cache.dir
